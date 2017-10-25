@@ -1,0 +1,4 @@
+this bad smell was duplicated draw_graph methods for each type of graph.
+I subclasses each type of graph from a Graph base class and put this into a seperate file called Graphs.
+
+Main changes were to the command.py file with the addition of a graphs.py file
